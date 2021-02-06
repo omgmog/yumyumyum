@@ -17,7 +17,16 @@ layout: default
     </time>
     <hr>
   </header>
-{{ content }}
+  <div class="columns">
+  <div class="column is-two-thirds">
+    {{ content }}
+  </div>
+  {% if page.picture %}
+    <figure class="column is-one-third">
+      <img src="{{ page.picture }}" />
+    </figure>
+  {% endif %}
+</div>
 </article>
 <nav aria-label="Adjacent Posts">
   <ul>

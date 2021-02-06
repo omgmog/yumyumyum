@@ -4,8 +4,8 @@ title: Sweet Potato and Mozzarella Cakes
 author: jenny
 date: 2021-02-06 19:38:30
 categories: Veggie, Dinner, Flaxseed, Egg-free
+picture: "/assets/img/uploads/20210206_171928.jpg"
 ---
-![](/assets/img/uploads/20210206_171928.jpg)
 
 This was the first time trying flaxseed as an egg replacement and it was so easy and worked great! I'm not sure why it took me so long. I think I was a bit nervous about it but now I've popped that cherry I need to go forth and use it in everything. Next up will be cakes!
 
