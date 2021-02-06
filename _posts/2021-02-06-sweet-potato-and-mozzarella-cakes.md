@@ -23,24 +23,15 @@ Anyway back to the recipe at hand. This is a scaled back, simplified version to 
 ### Method
 
 1. Peel and chop the weet potato. Add to a pan of cold water and boil for fifteen minutes.
-
 2. Meanwhile mix our flaxseed with 3 tablespoons of water. Set aside.
-
 3. Boil your broccoli for 5 minutes. Set aside and once cooled chop up into small chunks.
-
 4. Grate the mozzarella.
-
 5. Whizz your bread into crumbs.
-
 6. Once the potato is cooked mash it up.
-
 7. Combine the potato, flaxseed, broccoli, mozzarella and half the breadcrumbs. 
-
 8. Scoop up the mixture into burger sized patties and roll them in the rest of the breadcrumbs. I made 9 - 4 each for the adults and one for the baby.
-
 9. Heat a pan with oil and fry the patties for 6 minutes on each side.
-
 10. Serve! We had it with the rest of the head of broccoli and sweet chilli sauce (the sauce was for the adults only)
 
-#### NOTES
+#### NOTE
 This recipe would work with lots of different types of veg. I will add some sweetcorn next time.

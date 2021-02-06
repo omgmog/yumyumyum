@@ -14,23 +14,20 @@ For a while I would make a batch of this every Sunday and have it in the fridge 
 
 I've only ever used red pepper and carrot OR butternut squash and carrot but I'm sure other combinations would work. For example I'm sure sweet potato would be delicious if you're not worried about it being very carby.
 
-*Ingredients*\
-1 red pepper or half butternut squash\
-4 carrots\
-1 onion\
-Mixed herbs\
-Slug of oil\
-Low salt vegetable stock cube
+### Ingredients
 
-*Method*\
+- 1 red pepper or half butternut squash
+- 4 carrots
+- 1 onion
+- Mixed herbs
+- Slug of oil
+- Low salt vegetable stock cube
+
+### Method
+
 1. Preheat your oven to 180c.
-
 2. Chop and peel the veggies. Put into a large bowl, sprinkle over your mixed herbs and slug your oil. Toss to coat.
-
 3. Roast in the oven for 30 minutes.
-
 4. Add to a pan, sprinkle over the low salt stock cube and pour in boiling water until the vegetables are covered.
-
 5. Boil up for around 10 minutes.
-
 6. Blend and you're done!
