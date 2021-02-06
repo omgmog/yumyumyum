@@ -1,31 +1,29 @@
 ---
 layout: default
 ---
+<section class="section">
+<h2 class="title">{{ page.title }}</h2>
+{% if page.subtitle %}<h3 class="subtitle">{{ page.subtitle }}</h3>{% endif %}
+</section>
 
-<h2>{{ page.title }}</h2>
+  <section class="section">
 
-  {% include page-intro.html %}
-
-  {{ content }}
-  
-  <section>
-
-    <ul>
       {% for post in site.posts %}
       {% assign author = site.data.authors[post.author] %}
-        <li>
-          <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-          <time datetime="{{ post.date }}">
-            <small>
-              <strong>{{ post.date | date_to_string }}</strong>
-              {% if author %}
-                by {{ author.name }}
-              {% endif %}
-            </small>
-          </time>
-        </li>
+        <div class="card mb-4">
+          <div class="card-content">
+            <h4 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+            <time class="subtitle" datetime="{{ post.date }}">
+              <small>
+                <strong>{{ post.date | date_to_string }}</strong>
+                {% if author %}
+                  by {{ author.name }}
+                {% endif %}
+              </small>
+            </time>
+          </div>
+        </div>
       {% endfor %}
-    </ul>
   
   </section>
   
