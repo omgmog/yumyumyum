@@ -11,14 +11,16 @@ This was the first time trying flaxseed as an egg replacement and it was so easy
 
 Anyway back to the recipe at hand. This is a scaled back, simplified version to satisfy baby pallettes but actually it was very flavoursome and doesn't need anything extra!
 
-*Ingredients*
+### Ingredients
 
-500g sweet potato\
-4 florets broccoli\
-125g mozzarella\
-1tbsp flaxseed\
-2 slices of bread (I used seeded)\
-Vegetable oil
+- 500g sweet potato
+- 4 florets broccoli
+- 125g mozzarella
+- 1tbsp flaxseed
+- 2 slices of bread (I used seeded)
+- Vegetable oil
+
+### Method
 
 1. Peel and chop the weet potato. Add to a pan of cold water and boil for fifteen minutes.
 
@@ -40,5 +42,5 @@ Vegetable oil
 
 10. Serve! We had it with the rest of the head of broccoli and sweet chilli sauce (the sauce was for the adults only)
 
-NOTES\
+#### NOTES
 This recipe would work with lots of different types of veg. I will add some sweetcorn next time.
