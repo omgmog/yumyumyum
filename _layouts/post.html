@@ -3,21 +3,22 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 
-<h2>{{ page.title }}</h2>
+<article>
+  <header>
+    <h1 class="title">{{ page.title }}</h1>
 
-<time datetime="{{ page.date }}">
-  <small>
-    <strong>{{ page.date | date_to_string }}</strong>
-    {% if author %}
-      by {{ author.name }}
-    {% endif %}
-  </small>
-</time>
-
-{% include page-intro.html %}
-
+    <time datetime="{{ page.date }}">
+      <small>
+        <strong>{{ page.date | date_to_string }}</strong>
+        {% if author %}
+          by {{ author.name }}
+        {% endif %}
+      </small>
+    </time>
+    <hr>
+  </header>
 {{ content }}
-
+</article>
 <nav aria-label="Adjacent Posts">
   <ul>
     {% if page.previous.url %}

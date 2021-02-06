@@ -10,12 +10,15 @@ layout: compress
   <body>
 
     {% include header.html %}
-
+    <section class="section">
     <main>
-
-      {{ content }}
-
+      <div class="container is-max-desktop">
+        <div class="content">
+          {{ content }}
+        </div>
+      </div>
     </main>
+    </section>
 
     {% include footer.html %}
 

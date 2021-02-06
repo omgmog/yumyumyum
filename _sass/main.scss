@@ -1,11 +1,8 @@
 @charset "utf-8";
 
-@import
-  "partials/fonts",
-  "partials/variables",
-  "partials/mixins",
-  "partials/normalize",
-  "partials/utilities",
-  "partials/typography",
-  "partials/app"
-;
+.navbar.is-danger .navbar-item  { 
+  color: inherit; 
+  &:hover {
+    color: #4a4a4a;
+  }
+}

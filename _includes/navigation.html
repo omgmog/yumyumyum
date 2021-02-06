@@ -1,11 +1,9 @@
 {% assign navurl = page.url | remove: 'index.html' %}
-<ul>
+<div class="navbar-menu">
 {% for item in include.navigation %}
-  <li>
-    <a href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
-    {% if item.subitems %}
-      {% include navigation.html navigation=item.subitems %}
-    {% endif %}
-  </li>
+  <a class="navbar-item{% if item.url == navurl %} is-active{% endif %}" href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
+  {% if item.subitems %}
+    {% include navigation.html navigation=item.subitems %}
+  {% endif %}
 {% endfor %}
-</ul>
+</div>
