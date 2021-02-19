@@ -5,9 +5,9 @@ author: jenny
 date: 2021-02-06 21:12:51
 categories: Veggie, Meat, Pie, Dinner
 ---
-There was a time when we couldn't give our daughter tomato in any form. This presented a huge challenge for me as I normally use tomatoes as a base for most meals. 
+There was a time when we couldn't give our daughter tomato in any form. This presented a huge challenge for me as I normally use tomatoes as a base for most meals.
 
-This is my answer for tomato (and garlic) free cottage pie! 
+This is my answer for tomato (and garlic) free cottage pie!
 
 You can use meat or veggie mince. This was actually originally designed for veggie mine - you don't need to add so much flavour for meat although it doesn't do any harm.
 
@@ -39,10 +39,10 @@ Serves 4 adults and 2 tiny people (we eat half and freeze half)
 5. Add the rosemary, bay leaf, marmite and stock cube and stir. Pour in boiling water until just covering the mixture.
 6. Add the carrot and sweetcorn. Bring to a simmer.
 7. Drain and mash your potato with a slug of whole milk.
-8. Transfer the mince mixture to a casserole dish and spoon and smooth the potato on top. 
+8. Transfer the mince mixture to a casserole dish and spoon and smooth the potato on top.
 9. Grate the cheese over the top.
 10. Put in the oven for 30 minutes until the pie is bubbling and golden brown on top.
 
-#### NOTE: 
+#### NOTE
 
 You could also add a tablespoon or so of my tomato-free pasta sauce. You can find the recipe [here](/recipe/tomato-free-pasta-sauce).

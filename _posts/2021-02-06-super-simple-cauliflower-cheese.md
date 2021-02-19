@@ -22,7 +22,7 @@ As she's just a littlie I use whole milk but I use very strong cheddar because y
 
 1. Preheat the oven to 180c.
 2. Chop up the cauliflower and boil for 5 minutes. Drain and tip into a lasagne dish.
-3. Melt the butter in a pan over a low to medium heat and stir in the flour. 
+3. Melt the butter in a pan over a low to medium heat and stir in the flour.
 4. I normally combine the milk and the stock into the same measuring jug because it saves on washing up. Gradually add this to the butter and flour mix (the roux), making sure that the mixture is bubbling before adding more each time.
 5. Tip the white sauce over the cauliflower and give it a bit of a mix to make sure it's completely covered.
 6. Grate the cheese over the top.

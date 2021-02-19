@@ -8,7 +8,7 @@ categories: Dinner, Tomato-free, Sauce
 ---
 Due to my daughter's various allergies and intollerances, for a while we avoided all forms of tomato. This presented me with a challenge. Tomato is such a staple - how do I cook without it? By making large batches of tomato-free pasta sauce!
 
-This is so delicious and a fantastic alternative to tomato sauce. You can use it as a straightforward sauce with pasta, spread it on pizza, or even add a couple of dollops to cottage pie! 
+This is so delicious and a fantastic alternative to tomato sauce. You can use it as a straightforward sauce with pasta, spread it on pizza, or even add a couple of dollops to cottage pie!
 
 For a while I would make a batch of this every Sunday and have it in the fridge ready for the week. I also froze little baby portions for evenings where we weren't eating with our daughter and needed something quick and easy for her.
 
